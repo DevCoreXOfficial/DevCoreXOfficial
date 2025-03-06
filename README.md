@@ -1,7 +1,10 @@
 # DevCoreX 🚀
 
 ### Hi there 👋  
-We are a forward-thinking startup automating web development with innovative tools like **Dev.X**. Our mission is to empower developers and accelerate digital transformation.
+We are **DevCoreX**, a startup dedicated to automating web application development, offering innovative tools like **Dev.X**. Our mission is to empower developers with flexible and efficient solutions designed to streamline their workflows and maximize productivity.
+
+**Vision:**  
+To be globally recognized as an innovative startup in automating web application development, building a strong community of developers passionate about our tools and solutions, fostering collaboration and collective growth.
 
 ---
 
