@@ -9,8 +9,8 @@ To be a globally recognized community that fosters innovation in web application
 ---
 
 ## 🌟 Featured Projects
-- **[Dev.X](https://github.com/DevCoreXTeam/dev.x.git):** CLI tool to generate web applications and components automatically.
 - **[Core-Termux](https://github.com/DevCoreXOfficial/core-termux.git):** Automates the setup of a web development environment in Termux
+- **[NvChad-Termux](https://github.com/DevCoreXOfficial/nvchad-termux.git):** Neovim Code Editor + NvChad Framework + Plugins + GitHub Copilot and AI Code Assistants
 
 ---
 
