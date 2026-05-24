@@ -1,7 +1,7 @@
 # DevCoreX 🚀
 
 ### Hi there 👋
-We are **DevCoreX**, a community dedicated to empowering developers by automating web application development and providing innovative tools like **Dev.X**. Our mission is to help developers streamline their workflows, collaborate more effectively, and boost productivity with flexible and efficient solutions.
+We are **DevCoreX**, a community dedicated to empowering developers by automating web application development and providing innovative tools like **Core-Termux**. Our mission is to help developers streamline their workflows, collaborate more effectively, and boost productivity with flexible and efficient solutions.
 
 **Vision:**  
 To be a globally recognized community that fosters innovation in web application development, where developers come together to share knowledge, collaborate, and grow collectively through the tools and solutions we provide. Our goal is to empower developers at every level and lay the foundation to grow into a full-fledged startup in the future.
@@ -10,6 +10,7 @@ To be a globally recognized community that fosters innovation in web application
 
 ## 🌟 Featured Projects
 - **[Core-Termux](https://github.com/DevCoreXOfficial/core-termux.git):** Automates the setup of a web development environment in Termux
+- **[DevCoreX](https://github.com/DevCoreXOfficial/devcorex.git):** DevCoreX - Software Development Community focused on Termux/Android
 - **[NvChad-Termux](https://github.com/DevCoreXOfficial/nvchad-termux.git):** Neovim Code Editor + NvChad Framework + Plugins + GitHub Copilot and AI Code Assistants
 
 ---
