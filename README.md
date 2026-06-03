@@ -9,7 +9,7 @@ To be a globally recognized community that fosters innovation in web application
 ---
 
 ## 🌟 Featured Projects
-- **[Core-Termux](https://github.com/DevCoreXOfficial/core-termux.git):** Automates the setup of a web development environment in Termux
+- **[Core-Termux](https://github.com/DevCoreXOfficial/core-termux.git):** Modular Dev Environment for Termux
 - **[DevCoreX](https://github.com/DevCoreXOfficial/devcorex.git):** DevCoreX - Software Development Community focused on Termux/Android
 - **[NvChad-Termux](https://github.com/DevCoreXOfficial/nvchad-termux.git):** Neovim Code Editor + NvChad Framework + Plugins + GitHub Copilot and AI Code Assistants
 
